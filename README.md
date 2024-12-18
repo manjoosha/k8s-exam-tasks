@@ -1,6 +1,9 @@
 # k8s-exam-tasks
-"Tasks" \
-"ConfigMap" \
-"Create a ConfigMap using existing data" \
-"Create a Pod and use above data as a volume"
+**Tasks** \
+**ConfigMap** \
+Create a ConfigMap using existing data \
+Create a Pod and use above data as a volume \
+Create a Secret using existing data \
+Create a Pod and use above data as a volume \
+
 
